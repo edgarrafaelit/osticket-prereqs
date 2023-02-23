@@ -192,7 +192,7 @@ Congratulations! You've sucessfully installed osTicket onto your Virtual Machine
  </p>
 
 <p>
-<img src="https://imgur.com/lavL3rw" height="80%" width="80%" alt="Changing permissions on C:inetpub\wwroot\include\ost-config.php back to read and execute only"/>
+<img src="[Imgur](https://i.imgur.com/lavL3rw.png)" height="80%" width="80%" alt="Changing permissions on C:inetpub\wwroot\include\ost-config.php back to read and execute only"/>
 </p>
 <p>
  Don't forget to change the permissions on "C:inetpup\wwwroot\include\ost-config.php" back to read/execute only
